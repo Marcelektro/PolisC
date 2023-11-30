@@ -4,6 +4,8 @@
 #define fałsz false
 
 #define standard std
+#define używanie using
+#define przestrzeńNazw namespace
 
 #define siałt cout
 #define siin cin
@@ -22,6 +24,10 @@
 #define dziewięć 9
 
 #define liczbaCałkowita int
+#define typLogiczny boolean
+#define sznurek string
+#define długi long
+
 #define dla for
 #define średnik ;
 #define dwukropek :
@@ -32,6 +38,7 @@
 #define jeżeli if
 #define inaczej else
 #define zwróć return
+#define przełącznik switch
 
 #define równaSię =
 #define jestRówne ==
@@ -44,6 +51,8 @@
 #define zamknięcieNawiasówKlamrowych }
 #define otwarcieNawiasu (
 #define zamknięcieNawiasu )
+#define otwarcieNawiasuKwadratowego [
+#define zamknięcieNawiasuKwadratowego ]
 
 #define główny main
 
